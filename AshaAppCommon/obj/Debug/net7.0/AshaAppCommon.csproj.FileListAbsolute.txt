@@ -1,0 +1,12 @@
+C:\tryouts\AshaAppSolution\AshaAppCommon\bin\Debug\net7.0\AshaAppCommon.deps.json
+C:\tryouts\AshaAppSolution\AshaAppCommon\bin\Debug\net7.0\AshaAppCommon.dll
+C:\tryouts\AshaAppSolution\AshaAppCommon\bin\Debug\net7.0\AshaAppCommon.pdb
+C:\tryouts\AshaAppSolution\AshaAppCommon\obj\Debug\net7.0\AshaAppCommon.csproj.AssemblyReference.cache
+C:\tryouts\AshaAppSolution\AshaAppCommon\obj\Debug\net7.0\AshaAppCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\tryouts\AshaAppSolution\AshaAppCommon\obj\Debug\net7.0\AshaAppCommon.AssemblyInfoInputs.cache
+C:\tryouts\AshaAppSolution\AshaAppCommon\obj\Debug\net7.0\AshaAppCommon.AssemblyInfo.cs
+C:\tryouts\AshaAppSolution\AshaAppCommon\obj\Debug\net7.0\AshaAppCommon.csproj.CoreCompileInputs.cache
+C:\tryouts\AshaAppSolution\AshaAppCommon\obj\Debug\net7.0\AshaAppCommon.dll
+C:\tryouts\AshaAppSolution\AshaAppCommon\obj\Debug\net7.0\refint\AshaAppCommon.dll
+C:\tryouts\AshaAppSolution\AshaAppCommon\obj\Debug\net7.0\AshaAppCommon.pdb
+C:\tryouts\AshaAppSolution\AshaAppCommon\obj\Debug\net7.0\ref\AshaAppCommon.dll

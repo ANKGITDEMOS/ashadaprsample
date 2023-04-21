@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8boPJ8bdbJNs0DdesvlsxiRxiWivAyTjsBbTTlas+03eR5PyZmYmI3RovORD8c7L3/VBS9WX89pCqXVDFvYMKQ==",
+  "success": true,
+  "projectFilePath": "C:\\tryouts\\AshaAppSolution\\Simulation\\Simulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anmittal\\.nuget\\packages\\mqttnet\\3.1.2\\mqttnet.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
